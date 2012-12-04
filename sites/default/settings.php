@@ -201,13 +201,19 @@
  * @endcode
  */
 $databases = array (
-  'default' => 
+  'default' =>
   array (
-    'default' => 
+    'default' =>
     array (
+<<<<<<< HEAD
       'database' => 'vertisir_dev2',
       'username' => 'vertisir_yurg',
       'password' => 'nD&x~h!avn4%',
+=======
+      'database' => 'vfl',
+      'username' => 'root',
+      'password' => 'drupalpro',
+>>>>>>> cd8ab7a71cd319d4a60b0c3f091d6bb58379a3b5
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
