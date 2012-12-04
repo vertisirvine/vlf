@@ -200,7 +200,21 @@
  *   );
  * @endcode
  */
-
+$databases = array (
+  'default' => 
+  array (
+    'default' => 
+    array (
+      'database' => 'vertisir_dev2',
+      'username' => 'vertisir_yurg',
+      'password' => 'nD&x~h!avn4%',
+      'host' => 'localhost',
+      'port' => '',
+      'driver' => 'mysql',
+      'prefix' => '',
+    ),
+  ),
+);
 
 /**
  * Access control for update.php script.
