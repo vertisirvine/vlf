@@ -201,14 +201,17 @@
  * @endcode
  */
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 006283507d23dd7ee1abaa7bc66cc7f06bdcfebb
 $databases = array (
-  'default' =>
+  'default' => 
   array (
-    'default' =>
+    'default' => 
     array (
       'database' => 'vfl',
       'username' => 'root',
-      'password' => 'drupalpro',
+      'password' => 'quickstart',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
@@ -216,11 +219,14 @@ $databases = array (
     ),
   ),
 );
+<<<<<<< HEAD
 =======
 
 >>>>>>> ef16096b287e7cedc912b75d53ff42281e47c9af
+=======
+>>>>>>> 006283507d23dd7ee1abaa7bc66cc7f06bdcfebb
 
-/**
+/***
  * Access control for update.php script.
  *
  * If you are updating your Drupal installation using the update.php script but
