@@ -1508,12 +1508,12 @@ padding-left: 8px;
 }
 
 #edit-mail, #edit-name, #edit-subject{
-width: 865px;
+width: 880px;
 
 }
 
 #edit-message, .grippie{
-width: 865px;
+width: 880px;
 
 }
 .page-contact #main{
