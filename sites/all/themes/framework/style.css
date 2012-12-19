@@ -350,16 +350,16 @@ body.sidebar-second #sidebar-second {
 	margin: 0;
 	padding: 6px 7px 0 0;
 	float: right;
-	border-top: solid 1px #ED1C2E;
-	border-right: solid 1px #ED1C2E;
+	border-top: solid 1px #025DA6;
+	border-right: solid 1px #025DA6;
 	height: 100%;
-	background: url("images/header-nav-bg.png") no-repeat right top;
+	background: url("images/header-nav-bg.png") no-repeat 587px 3px;
 	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 #navigation .menu .menu {
 	display: none;
 	position: absolute;
-	border-left: 1px solid #ED1B2D;
+	border-left: 1px solid #025DA6;
 	margin-left: -6px;
 	padding-left: 5px;
 	margin-top: -11px;
@@ -425,14 +425,14 @@ font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
 	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 #navigation .menu .menu li a {
-	/*color: #ed1b2e;*/
+	/*color: #025DA6;*/
 	color: #000;
 	line-height: 20px;
 	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 #navigation .menu .menu li a.active, #navigation .menu .menu li a:hover {
 	/*color: #000;*/
-	color: #ed1b2e;
+	color: #025DA6;
 	background: none;
 	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
 }
@@ -709,7 +709,7 @@ float: left;
 	color: #FFF;
 }
 #footer-menu-inside .menu a:hover, #footer-menu-inside .menu a:active, #footer-menu-inside .menu .active, #footer-menu-inside .menu a {
-	color: #ed1b2d;
+	color: #000000;
 }
 .region-footer {
 	height: 45px;
@@ -810,7 +810,7 @@ float: left;
 	margin: 4px 0px 0px 13px;
 	padding: 21px 0px 0px 9px;
 	width: 155px;
-	border: 1px solid #ED1B2E;
+	border: 1px solid #025DA6;
 	border-left: none;
 	background: url("images/block-services.png");
 }
@@ -1421,7 +1421,7 @@ padding: 0px;
 
 .view-footer
 {
-	/*background-color: #ed1b2d;*/
+	/*background-color: #025DA6;*/
 	/*+placement:shift -19px -29px;*/
 	position: relative;
 	left: -19px;
@@ -1508,12 +1508,12 @@ padding-left: 8px;
 }
 
 #edit-mail, #edit-name, #edit-subject{
-width: 325px;
+width: 880px;
 
 }
 
 #edit-message, .grippie{
-width: 335px;
+width: 880px;
 
 }
 .page-contact #main{
@@ -1522,7 +1522,7 @@ padding-top: 20px;
 
 .contact-form{
 background-color: #fff;
-width: 350px;
+width: 913px;
 height: 100%;
 padding: 10px;
 color: #000;
