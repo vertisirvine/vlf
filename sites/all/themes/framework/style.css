@@ -954,7 +954,7 @@ float: left;
 
 
 .front .imageflow .previous, .front .imageflow .next {
-	top: -242px;
+	top: -263px;
 }
 
 .front .imageflow .button, .node-type-slideshow .imageflow .button {
@@ -1264,7 +1264,7 @@ margin: 0;
 }
 
 .front .views-jqfx-imageflow .caption {
-	padding-top: 170px !important;
+	margin-top: 68px !important;
 	height: 42px;
 	width: 900px !important;
 	text-align: center;
@@ -1274,8 +1274,8 @@ margin: 0;
     font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 .front .imageflow {
-	margin-top: 5px;
-	height: 503px !important;
+	margin-top: -50px;
+	height: 550px !important;
 	margin-left: 0px;
 	margin-right: 0px;
 }
