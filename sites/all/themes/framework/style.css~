@@ -307,8 +307,8 @@ body.sidebar-second #sidebar-second {
 }
 #header #page-logo {
 	float: left;
-/*	margin-top: 23px;
-	margin-left: 14px; */
+	margin-top: -25px;
+	/*margin-left: 14px; */
 }
 #header #page-logo-link {
 	display: block;
@@ -644,6 +644,13 @@ ul.secondary a.active {
 	width: 942px;
 	padding: 25px 0 0 20px;
 }
+
+
+ .page-node-19 #content-wrapper{
+	background: url("images/content-services-horiz-shad.jpg") no-repeat;
+	width: 942px;
+	padding: 25px 0 0 20px;
+}
 .node-type-slideshow #main {
 	height: 400px;
 }
@@ -954,7 +961,7 @@ float: left;
 
 
 .front .imageflow .previous, .front .imageflow .next {
-	top: -242px;
+	top: -263px;
 }
 
 .front .imageflow .button, .node-type-slideshow .imageflow .button {
@@ -1264,7 +1271,7 @@ margin: 0;
 }
 
 .front .views-jqfx-imageflow .caption {
-	padding-top: 170px !important;
+	margin-top: 68px !important;
 	height: 42px;
 	width: 900px !important;
 	text-align: center;
@@ -1274,8 +1281,8 @@ margin: 0;
     font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 .front .imageflow {
-	margin-top: 5px;
-	height: 503px !important;
+	margin-top: -50px;
+	height: 550px !important;
 	margin-left: 0px;
 	margin-right: 0px;
 }
