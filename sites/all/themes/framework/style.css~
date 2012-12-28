@@ -1536,7 +1536,7 @@ padding-top: 20px;
 }
 
 .contact-form{
-background-color: #fff;
+background-color: #b1b3b6;
 width: 913px;
 height: 100%;
 padding: 10px;
