@@ -1524,12 +1524,12 @@ padding-left: 8px;
 }
 
 #edit-mail, #edit-name, #edit-subject{
-width: 880px;
+width: 335px;
 
 }
 
 #edit-message, .grippie{
-width: 880px;
+width: 335px;
 
 }
 .page-contact #main{
@@ -1537,8 +1537,9 @@ padding-top: 20px;
 }
 
 .contact-form{
-background-color: #b1b3b6;
-width: 913px;
+float: right;
+background-color: #c7c8ca;
+width: 350px;
 height: 100%;
 padding: 10px;
 color: #000;
