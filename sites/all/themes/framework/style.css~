@@ -1538,7 +1538,7 @@ padding-top: 20px;
 
 .contact-form{
 float: right;
-background-color: #b1b3b6;
+background-color: #c7c8ca;
 width: 350px;
 height: 100%;
 padding: 10px;
